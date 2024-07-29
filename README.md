@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 💻 Sobre o projeto
 
-First, run the development server:
+Projeto Page com a tematica spider man.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+o projeto tem como intuito criar uma page com rotas com 4 rotas.
+Uma home page personalizada para cada pagina usando Props.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Projeto foi feito em React e NextJs, usando o padrão de rotas do NextJs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/user-attachments/assets/9796effb-5259-4a87-98db-cafa1d506245)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## ⚙️ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- [x]  Card animado que leva as paginas;
+- [x]  Paginas personalizadas;
+- [ ]  Responsividade(em breve);
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/user-attachments/assets/0208d4ab-ccb9-43a9-b08f-376bf7c77fb8)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🛠 Tecnologias
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **[React-18](https://react.dev/community)**
+- **[NextJs- 14](https://nextjs.org/docs)**
+- **[Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+
+
+---
+
+
+## 📝 Licença
+
+Projeto desenvolvido por [JonasSmendes](https://repositorio-jonas-mendes.vercel.app/).
