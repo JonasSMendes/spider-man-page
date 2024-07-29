@@ -26,6 +26,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 - **[React-18](https://react.dev/community)**
 - **[NextJs- 14](https://nextjs.org/docs)**
+- **[TypeScript](https://www.typescriptlang.org/docs/)**
 - **[Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
