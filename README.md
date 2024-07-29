@@ -1,12 +1,9 @@
 
 # 💻 Sobre o projeto
 
-Projeto Page com a tematica spider man.
+Bem-vindo ao projeto Spider-Man Page! Este projeto foi criado com o objetivo de desenvolver uma página temática do Spider-Man, utilizando as poderosas ferramentas do React e Next.js, juntamente com TypeScript.
 
-o projeto tem como intuito criar uma page com rotas com 4 rotas.
-Uma home page personalizada para cada pagina usando Props.
-
-Projeto foi feito em React e NextJs, usando o padrão de rotas do NextJs.
+O Projeto Spider-Man Page é uma aplicação web que apresenta quatro rotas distintas, cada uma oferecendo uma experiência única e personalizada. A home page de cada rota é projetada individualmente utilizando Props, garantindo uma navegação dinâmica e interativa.
 
 ![image](https://github.com/user-attachments/assets/9796effb-5259-4a87-98db-cafa1d506245)
 
